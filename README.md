@@ -1,5 +1,5 @@
 ### Hi there, I'm Ammar Afzal - aka [Ammar Sheikh][website] 👋
-[![HitCount](http://hits.dwyl.com/shammarafzal/shammarafzal.svg)](http://hits.dwyl.com/shammarafzal/shammarafzal)<br />
+
 [![Website](https://img.shields.io/website?label=ammarafzal.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ammarafzal.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shammarafzal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%shammarafzal&screen_name=shammarafzal)
 
@@ -45,6 +45,16 @@
 <br />
 <br />
 
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Swift             12 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   45.82 % 
+Android Studio    2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   11.82 % 
+Python            1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   6.17 % 
+Django            8 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   25.17 % 
+```
+<!--END_SECTION:waka-->
 
 [website]: https://ammarafzal.net
 [twitter]: https://twitter.com/shammarafzal
