@@ -13,9 +13,11 @@ Gist About me
 ### Other places you can find me 
 
 
-🐣 [See my Tweet](https://twitter.com/shammarafzal)
-🐣 [See my Instagram](https://instagram.com/shammarafzal)
-🐣 [See my LinkedIN ](https://linkedin.com/in/shammarafzal)
+[website]: https://ammarafzal.net
+[twitter]: https://twitter.com/shammarafzal
+[instagram]: https://instagram.com/shammarafzal
+[linkedin]: https://linkedin.com/in/shammarafzal
+
 
 
 ###
