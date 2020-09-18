@@ -27,7 +27,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Machine Learning" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Machine Learning" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT2CCVTcoaM4Z3iKHtvtMadGRhT7Dsz8Ecww&usqp=CAU" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Xcode" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9yO7OKYbY6Y6iP-zTeU59WbVdRgn6wgE7yA&usqp=CAU" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
