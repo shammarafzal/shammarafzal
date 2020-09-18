@@ -56,6 +56,9 @@ Django            8 hr 19 mins    ██▓░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+ <img align="left" alt="shammarafzal Github Stats" src="https://github-readme-stats.shammarafzal.vercel.app/api?username=shammarafzal&show_icons=true&hide_border=true" />
+
+
 [website]: https://ammarafzal.net
 [twitter]: https://twitter.com/shammarafzal
 [instagram]: https://instagram.com/shammarafzal
