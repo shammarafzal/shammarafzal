@@ -62,12 +62,6 @@ Django            8 hr 19 mins    ██▓░░░░░░░░░░░░�
 <br />
 <br />
 <br />
-[website]: https://ammarafzal.net
-[twitter]: https://twitter.com/shammarafzal
-[instagram]: https://instagram.com/shammarafzal
-[linkedin]: https://linkedin.com/in/shammarafzal
-
-
 
 ###
 
@@ -75,3 +69,7 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 Happy coding !!
 
+[website]: https://ammarafzal.net
+[twitter]: https://twitter.com/shammarafzal
+[instagram]: https://instagram.com/shammarafzal
+[linkedin]: https://linkedin.com/in/shammarafzal
