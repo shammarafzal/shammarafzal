@@ -71,6 +71,32 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 Happy coding !!
 
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/ammarafzal075 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-26844a3c-170c-4108-8b46-9456ec23da2a' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >ammarafzal075</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hi there, My name is Ammar Afzal. I am a WordPress developer with 3 years of experience.
+
+I give professional services and awesome output.
+
+Unlike Overworked Freelancers, Who Rush Through Your Work, I Provide Results and an Unforgettable Customer Experience That You Will Not Find Anywhere Else.
+
+My Top Two Priorities are Service Quality and Customer Satisfaction.
+
+Feel free to contact me. Thanks</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-26844a3c-170c-4108-8b46-9456ec23da2a' src='https://widgets.fiverr.com/api/v1/seller/ammarafzal075?widget_id=26844a3c-170c-4108-8b46-9456ec23da2a' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
+
+
 [website]: https://ammarafzal.surge.sh
 [twitter]: https://twitter.com/shammarafzal
 [instagram]: https://instagram.com/shammarafzal
