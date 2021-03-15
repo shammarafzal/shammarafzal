@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 ```text
 Flutter             12 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   45.82 % 
-Laravel    2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   11.82 % 
+Laravel             2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 <!--END_SECTION:waka-->
 
