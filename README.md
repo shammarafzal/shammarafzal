@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ammarafzal.surge.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ammarafzal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shammarafzal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shammarafzal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shammarafzal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -59,7 +59,7 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 Happy coding !!
 
-[website]: https://ammarafzal.surge.sh
+[website]: https://ammarafzal
 [twitter]: https://twitter.com/shammarafzal
 [instagram]: https://instagram.com/shammarafzal
 [linkedin]: https://linkedin.com/in/shammarafzal
