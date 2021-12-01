@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ammarafzal&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ammarafzal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shammarafzal?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shammarafzal)
+![](https://komarev.com/ghpvc/?username=shammarafzal&color=green)
 ## I'm a Mobile & Web Application Developer!
 
 - 🔭 I’m currently working on Flutter!
