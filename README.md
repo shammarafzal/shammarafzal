@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ammarafzal" width="22px" src="https://img.icons8.com/?size=512&id=63807&format=png" />][website]
-[<img align="left" alt="shammarafzal | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=phOKFKYpe00C&format=png" />][twitter]
+[<img align="left" alt="shammarafzal | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=13963&format=png" />][twitter]
 [<img align="left" alt="shammarafzal | LinkedIn" width="22px" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />][linkedin]
 [<img align="left" alt="shammarafzal | Instagram" width="22px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />][instagram]
 
@@ -26,7 +26,7 @@
 
 ### Skills:
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" />
-<img align="left" alt="CyberSecurity" width="26px" src="https://img.icons8.com/?size=512&id=x1wieqREzmXv&format=png" />
+<img align="left" alt="CyberSecurity" width="32px" src="https://img.icons8.com/?size=512&id=x1wieqREzmXv&format=png" />
 <img align="left" alt="WordPress" width="26px" src="https://img.icons8.com/?size=512&id=v9uZbuVoWleB&format=png" />
 <br />
 <br />
