@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ammarafzal&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.fiverr.com/ammarafzal0)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shammarafzal?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shammarafzal)
 ![](https://komarev.com/ghpvc/?username=shammarafzal&color=green)
-## I'm a Mobile & Web Application Developer!
+## I'm a Mobile Application Developer and CyberSecurity Expert!
 
 - 🔭 I’m currently working on Flutter!
 - 🧠 Learning CyberSecurity & Ethical Hacking
@@ -17,22 +17,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ammarafzal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shammarafzal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shammarafzal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shammarafzal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ammarafzal" width="22px" src="https://img.icons8.com/?size=512&id=63807&format=png" />][website]
+[<img align="left" alt="shammarafzal | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=phOKFKYpe00C&format=png" />][twitter]
+[<img align="left" alt="shammarafzal | LinkedIn" width="22px" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />][linkedin]
+[<img align="left" alt="shammarafzal | Instagram" width="22px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### Skills:
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" />
-<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-
+<img align="left" alt="CyberSecurity" width="26px" src="https://icons8.com/icon/x1wieqREzmXv/cyber-security" />
+<img align="left" alt="WordPress" width="26px" src="https://img.icons8.com/?size=512&id=v9uZbuVoWleB&format=png" />
 <br />
 <br />
 
