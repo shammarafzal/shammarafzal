@@ -6,10 +6,11 @@
 ## I'm a Mobile & Web Application Developer!
 
 - 🔭 I’m currently working on Flutter!
+- 🧠 Learning CyberSecurity & Ethical Hacking
 - 🌱 I try to: Go beyond and push the bounds
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🌋  I’m always looking for challenging work oppurtunities ahead.
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌋  I’m always looking for challenging work opportunities ahead.
 - ⚡ Fun fact: I love Biking
 - 📬 How to reach me: <a href="mailto:ammarafzal075@gmail.com">Let's get in touch!</a>
 
@@ -39,8 +40,8 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Flutter             12 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   45.82 % 
-Laravel             8 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   11.82 % 
+Flutter                   12 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   45.82 % 
+CyberSecurity             8 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -56,11 +57,11 @@ Laravel             8 hrs 12 mins   ███████▒░░░░░░�
 <br />
 <br />
 
-I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives more easier.
+I strongly believe we, the professionals of the tech industry, need to learn and innovate. There is constant change in the technologies in the tech market, which we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and updating with modern tools helping our lives easier.
 
 Happy coding !!
 
-[website]: https://ammarafzal
+[website]: https://linktr.ee/shammarafzal
 [twitter]: https://twitter.com/shammarafzal
 [instagram]: https://instagram.com/shammarafzal
 [linkedin]: https://linkedin.com/in/shammarafzal
