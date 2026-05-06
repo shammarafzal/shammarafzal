@@ -1,62 +1,70 @@
-### Hi there, I'm Ammar Afzal - aka [Ammar Sheikh][website] 👋
+## 👋 Hi, I'm Ammar Afzal
 
-[![Website](https://img.shields.io/website?label=ammarafzal&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.fiverr.com/ammarafzal0)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shammarafzal?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shammarafzal)
-![](https://komarev.com/ghpvc/?username=shammarafzal&color=green)
-## I'm a Mobile Application Developer and CyberSecurity Expert!
+### 🚀 Founder in Progress | Mobile App Developer | Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on Flutter!
-- 🧠 Learning CyberSecurity & Ethical Hacking
-- 🌱 I try to: Go beyond and push the bounds
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2026 Goals: Build a startup
-- 🌋  I’m always looking for challenging work opportunities ahead.
-- ⚡ Fun fact: I love Biking
-- 📬 How to reach me: <a href="mailto:ammarafzal075@gmail.com">Let's get in touch!</a>
+I design and build scalable mobile applications with a focus on real-world impact. My goal is to turn ideas into products that solve meaningful problems and can evolve into successful startups.
 
+---
 
-### Connect with me:
+### 💡 What I Do
 
-[<img align="left" alt="ammarafzal" width="22px" src="https://img.icons8.com/?size=512&id=92033&format=png" />][website]
-[<img align="left" alt="shammarafzal | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=13963&format=png" />][twitter]
-[<img align="left" alt="shammarafzal | LinkedIn" width="22px" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />][linkedin]
-[<img align="left" alt="shammarafzal | Instagram" width="22px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />][instagram]
+- 📱 Build **production-ready mobile apps** using Flutter  
+- 🔐 Apply **security-first thinking** in application design  
+- ⚙️ Transform ideas into **MVPs (Minimum Viable Products)** quickly  
+- 📈 Focus on **scalable, user-centric solutions**  
+- 🧪 Experiment with new technologies to stay ahead  
 
-<br />
+---
 
-### Skills:
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" />
-<img align="left" alt="CyberSecurity" width="32px" src="https://img.icons8.com/?size=512&id=x1wieqREzmXv&format=png" />
-<img align="left" alt="WordPress" width="32px" src="https://img.icons8.com/?size=512&id=v9uZbuVoWleB&format=png" />
-<br />
-<br />
+### 🧠 Current Focus
 
+- 🚀 Developing and launching **startup-ready applications**  
+- 🔐 Advancing skills in **Cybersecurity & Ethical Hacking**  
+- 🏗️ Building systems that are **secure, scalable, and efficient**  
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
+---
+
+### 🎯 Vision
+
+My mission is to build products that:
+- Solve real problems  
+- Reach global users  
+- Scale into sustainable businesses  
+
+I’m actively working toward launching my own startup and collaborating with individuals who share the same ambition.
+
+---
+
+### 🤝 Open for Collaboration
+
+I’m interested in:
+- Startup ideas & MVP development  
+- Technical partnerships  
+- Freelance or contract-based app development  
+- Building SaaS or mobile-first products  
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: **ammarafzal075@gmail.com**  
+- 🌐 Portfolio: https://linktr.ee/shammarafzal  
+- 💼 LinkedIn: https://linkedin.com/in/shammarafzal  
+- 📸 Instagram: https://instagram.com/shammarafzal  
+
+---
+
+### 🛠️ Core Skills
+
+- **Mobile Development:** Flutter  
+- **Security:** Cybersecurity fundamentals, ethical hacking  
+- **Web:** WordPress  
+- **Mindset:** Product thinking, fast execution, continuous iteration  
+
+---
+
+### 📊 Development Activity
+
 ```text
-Flutter                   12 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   45.82 % 
-CyberSecurity             8 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   11.82 % 
-```
-<!--END_SECTION:waka-->
-
- <img align="left" alt="shammarafzal Github Stats" src="https://github-readme-stats.vercel.app/api?username=shammarafzal&show_icons=true&hide_border=true" />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-I strongly believe we, the professionals of the tech industry, need to learn and innovate. There is constant change in the technologies in the tech market, which we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and updating with modern tools helping our lives easier.
-
-Happy coding !!
-
-[website]: https://linktr.ee/shammarafzal
-[twitter]: https://twitter.com/shammarafzal
-[instagram]: https://instagram.com/shammarafzal
-[linkedin]: https://linkedin.com/in/shammarafzal
+Flutter           12 hrs 25 mins   █████████████░░░░░░░░░░   45.82%
+CyberSecurity      8 hrs 12 mins   ██████░░░░░░░░░░░░░░░░   11.82%
