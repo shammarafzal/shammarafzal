@@ -59,12 +59,4 @@ I’m interested in:
 - **Mobile Development:** Flutter  
 - **Security:** Cybersecurity fundamentals, ethical hacking  
 - **Web:** WordPress  
-- **Mindset:** Product thinking, fast execution, continuous iteration  
-
----
-
-### 📊 Development Activity
-
-```text
-Flutter           12 hrs 25 mins   █████████████░░░░░░░░░░   45.82%
-CyberSecurity      8 hrs 12 mins   ██████░░░░░░░░░░░░░░░░   11.82%
+- **Mindset:** Product thinking, fast execution, continuous iteration
