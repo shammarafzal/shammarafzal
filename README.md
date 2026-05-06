@@ -9,7 +9,7 @@
 - 🧠 Learning CyberSecurity & Ethical Hacking
 - 🌱 I try to: Go beyond and push the bounds
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Build a startup
 - 🌋  I’m always looking for challenging work opportunities ahead.
 - ⚡ Fun fact: I love Biking
 - 📬 How to reach me: <a href="mailto:ammarafzal075@gmail.com">Let's get in touch!</a>
