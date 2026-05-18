@@ -60,4 +60,4 @@ completed, I turn your vision into a production-ready Flutter app.
 - 📧 Email: **ammarafzal075@gmail.com**
 - 🌐 Portfolio: [ammarafzal.net](https://ammarafzal.net)
 - 💼 LinkedIn: [linkedin.com/in/ammarafzaldev](https://linkedin.com/in/ammarafzaldev)
-- 🎯 Fiverr: [fiverr.com/shammarafzal](https://fiverr.com/shammarafzal)
+- 🎯 Fiverr: [fiverr.com/ammarafzal0](https://fiverr.com/ammarafzal0)
