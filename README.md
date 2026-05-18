@@ -1,62 +1,63 @@
 ## 👋 Hi, I'm Ammar Afzal
+### 📱 Flutter Mobile App Developer | Android & iOS | Firebase | REST APIs
 
-### 🚀 Founder in Progress | Mobile App Developer | Cybersecurity Enthusiast
-
-I design and build scalable mobile applications with a focus on real-world impact. My goal is to turn ideas into products that solve meaningful problems and can evolve into successful startups.
+I build fast, clean, and scalable mobile apps for startups and businesses — 
+from idea to App Store. With 20+ apps delivered and 370+ client projects 
+completed, I turn your vision into a production-ready Flutter app.
 
 ---
 
 ### 💡 What I Do
-
-- 📱 Build **production-ready mobile apps** using Flutter  
-- 🔐 Apply **security-first thinking** in application design  
-- ⚙️ Transform ideas into **MVPs (Minimum Viable Products)** quickly  
-- 📈 Focus on **scalable, user-centric solutions**  
-- 🧪 Experiment with new technologies to stay ahead  
+- 📱 Build **cross-platform mobile apps** for Android & iOS using Flutter
+- 🎨 Convert **Figma designs** into pixel-perfect Flutter screens
+- 🔥 Integrate **Firebase** — Auth, Firestore, Storage, Push Notifications
+- 🔌 Connect **REST APIs**, payment gateways, and Google Maps
+- 🚀 Build and launch **MVPs** quickly for startups and founders
+- 🛠️ Provide **long-term app maintenance**, bug fixing & feature updates
 
 ---
 
 ### 🧠 Current Focus
-
-- 🚀 Developing and launching **startup-ready applications**  
-- 🔐 Advancing skills in **Cybersecurity & Ethical Hacking**  
-- 🏗️ Building systems that are **secure, scalable, and efficient**  
-
----
-
-### 🎯 Vision
-
-My mission is to build products that:
-- Solve real problems  
-- Reach global users  
-- Scale into sustainable businesses  
-
-I’m actively working toward launching my own startup and collaborating with individuals who share the same ambition.
+- 📱 Building production-ready Flutter apps for global clients
+- 🏗️ Exploring **Clean Architecture & MVVM** patterns in Flutter
+- ⚡ Improving app performance and scalability
+- 🌍 Working with startups & businesses remotely worldwide
 
 ---
 
-### 🤝 Open for Collaboration
+### 🛠️ Tech Stack
+| Category | Technologies |
+|---|---|
+| **Mobile** | Flutter · Dart · Android · iOS |
+| **State Management** | GetX · Provider · Riverpod |
+| **Backend & Cloud** | Firebase · Firestore · Firebase Auth · Storage |
+| **APIs** | REST APIs · Laravel API · Payment Gateways · Google Maps |
+| **UI/UX** | Figma to Flutter · Responsive UI · Custom Widgets |
+| **Deployment** | Google Play Console · App Store Connect |
+| **Tools** | Git · GitHub · VS Code · Android Studio · Postman |
 
-I’m interested in:
-- Startup ideas & MVP development  
-- Technical partnerships  
-- Freelance or contract-based app development  
-- Building SaaS or mobile-first products  
+---
+
+### 📱 Selected Projects
+- 🏥 **MediGo** — Pharmacy & Medicine Delivery App
+- 🛒 **FreshCart** — Grocery Delivery App
+- 🚗 **TowHero** — Car Towing & Roadside Assistance App
+- 🎓 **BrightMinds** — Kids Learning App
+- 🏠 **Fixora** — Home Services Booking App
+- 🍕 **Pizzaro** — Food Delivery App
+
+---
+
+### 🎯 Open For
+- 🌍 Remote freelance Flutter projects
+- 📱 Full-time remote Flutter Developer roles
+- 🤝 Long-term app maintenance contracts
+- 🚀 Startup MVP development
 
 ---
 
 ### 📫 Get in Touch
-
-- 📧 Email: **ammarafzal075@gmail.com**  
-- 🌐 Portfolio: https://linktr.ee/shammarafzal  
-- 💼 LinkedIn: https://linkedin.com/in/shammarafzal  
-- 📸 Instagram: https://instagram.com/shammarafzal  
-
----
-
-### 🛠️ Core Skills
-
-- **Mobile Development:** Flutter  
-- **Security:** Cybersecurity fundamentals, ethical hacking  
-- **Web:** WordPress  
-- **Mindset:** Product thinking, fast execution, continuous iteration
+- 📧 Email: **ammarafzal075@gmail.com**
+- 🌐 Portfolio: [ammarafzal.net](https://ammarafzal.net)
+- 💼 LinkedIn: [linkedin.com/in/ammarafzaldev](https://linkedin.com/in/ammarafzaldev)
+- 🎯 Fiverr: [fiverr.com/shammarafzal](https://fiverr.com/shammarafzal)
