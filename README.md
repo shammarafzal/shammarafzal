@@ -212,9 +212,7 @@ NFC Institute of Engineering and Technology, Multan
 ## 📫 Let's Connect
 
 📧 **Email:** [ammarafzal075@gmail.com](mailto:ammarafzal075@gmail.com)
-🌐 **Portfolio:** [ammarafzal.net](https://ammarafzal.net)
 💼 **LinkedIn:** [linkedin.com/in/ammarafzaldev](https://linkedin.com/in/ammarafzaldev)
-🎯 **Fiverr:** [fiverr.com/ammarafzal0](https://fiverr.com/ammarafzal0)
 
 ---
 
